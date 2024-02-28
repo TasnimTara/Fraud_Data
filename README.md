@@ -1,1 +1,3 @@
 # Fraud_Data
+
+Detecting financial fraud is an important issue because it makes sure that people are not cheating or stealing when they make transcactions. It also protects the security of the bank and its customers. The purpose of this lab is to create a machine learning algorithm that will find out how to detect fraud based on various variables such as the amount of a transaction. The data, with 6 million rows, was sampled to create graphic visualizations. Using the heatmaps and RandomForest Classifer, I was able to see the different ways in which the variables were related to how quickly they picked up on fraud. I used RandomSearch and dropped the 'isFlaggedFraud' to see which type of model would fit the subset of the data.
